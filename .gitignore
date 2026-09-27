@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.streamlit/
+data/visit_photos/
+*.log
+.env
+.env.*
+!.env.example
+*..\Retail_AI_Sales_Copilot_BACKUP_20260927_100559*
+*BACKUP*
+PROJECT_REVIEW_*
+*.zip

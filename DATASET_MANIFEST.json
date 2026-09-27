@@ -1,0 +1,28 @@
+{
+  "master_dataset": "outlets_master.xlsx",
+  "compatibility_dataset": "outlets.xlsx",
+  "source_sheet": "All Areas",
+  "sheet_names": [
+    "All Areas"
+  ],
+  "outlet_count": 510,
+  "columns": [
+    "Outlet ID",
+    "S.No.",
+    "Outlet Name",
+    "Area",
+    "Outlet Type",
+    "Competiton Brand",
+    "Social Cigarettes Availability",
+    "Refined Sleeks Available",
+    "Feedback for Social and Sleeks",
+    "BT Longs Available",
+    "Most Selling Cigarette",
+    "Total Sales by Retailer",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "prepared_for": "Retail AI Sales Copilot integrated prototype"
+}
